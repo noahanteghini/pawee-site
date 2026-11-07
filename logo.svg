@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190" role="img" aria-labelledby="title">
+<title id="title">PAWÉ — accessoires pour chiens et chats</title>
+<rect width="520" height="190" fill="#f4efe7"/>
+<g fill="none" stroke="#29251f" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M220 65c-15-20-34-17-40-2-5 13 4 25 17 25 11 0 18-9 23-23Z"/>
+  <path d="M300 65c15-20 34-17 40-2 5 13-4 25-17 25-11 0-18-9-23-23Z"/>
+  <path d="M226 57c7-17 18-24 34-24s27 7 34 24"/>
+  <path d="M231 72c5 13 15 20 29 20s24-7 29-20"/>
+  <path d="M248 74h.5M272 74h.5"/>
+  <path d="M256 83c3 3 5 3 8 0"/>
+</g>
+<text x="260" y="137" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="9" fill="#29251f">PAWÉ</text>
+<text x="260" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#776d60">DOGS · CATS · LIVING</text>
+</svg>
